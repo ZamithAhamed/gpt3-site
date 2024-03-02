@@ -1,0 +1,12 @@
+{
+    "NavBar" : {
+        "Home": "Accueil",
+        "What is GPT3?": "Qu'est-ce que GPT3 ?",
+        "Open AI": "Open AI",
+        "Case Studies": "Études de cas",
+        "Library": "Bibliothèque",
+        "Sign Up": "S'inscrire",
+        "Sign In": "Se connecter",
+        "Let’s Build Something amazing with GPT-3 OpenAI" : "Créons quelque chose d'incroyable avec GPT-3 OpenAI"
+    }
+}
