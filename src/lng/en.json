@@ -9,5 +9,8 @@
         "Sign In" : "Sign In",
         "Let’s Build Something amazing with GPT-3 OpenAI" : "Let’s Build Something amazing with GPT-3 OpenAI",
         "Get Started" : "Get Started"
+    },
+    "Header" :{
+        "Your email address" : "Your email address"
     }
 }

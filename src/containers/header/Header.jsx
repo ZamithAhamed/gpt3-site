@@ -14,7 +14,7 @@ const Header = () => {
         <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
         
         <div className='gpt3__header-content__input'>
-          <input type='email' placeholder='Your email address' />
+          <input type='email' placeholder={t("Header.Your email address")} />
           <button type='button'>{t("NavBar.Get Started")}</button>
         </div>
         <div className='gpt3__header-content__people'>
